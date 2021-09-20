@@ -1,4 +1,9 @@
-.App {
+body {
+  padding: 50px;
+  background-color: #66ccff;
   font-family: sans-serif;
-  text-align: center;
+}
+#container {
+  display: flex;
+  justify-content: center;
 }
